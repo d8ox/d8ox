@@ -1,7 +1,7 @@
 # Diego Moya · `d8ox`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=d8ox&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%2F%20PRODUCT%20BUILDER&descAlignY=62&descSize=16&descColor=8b949e" alt="d8ox — Software Engineer / Product Builder" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=d8ox&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="d8ox" />
 </p>
 
 <p align="center">
