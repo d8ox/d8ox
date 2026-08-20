@@ -1,7 +1,7 @@
 # Diego Moya · `d8ox`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=d8ox&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="d8ox" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=d8ox&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="DiegoDev_" />
 </p>
 
 <p align="center">
