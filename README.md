@@ -1,7 +1,7 @@
 # Diego Moya · `d8ox`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=d8ox&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="d8ox" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=d8ox&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%2F%20PRODUCT%20BUILDER&descAlignY=62&descSize=16&descColor=8b949e" alt="d8ox — Software Engineer / Product Builder" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/d8ox"><img src="https://img.shields.io/github/followers/d8ox?label=Followers&style=flat-square&color=161b22" alt="GitHub followers" /></a>
   <a href="https://github.com/d8ox?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-161b22?style=flat-square" alt="Repositories" /></a>
-  <a href="https://crlabz.com"><img src="https://img.shields.io/badge/CR%20Labz-Founder-161b22?style=flat-square" alt="CR Labz" /></a>
+  <a href="https://crlabz.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CR%20Labz-Founder-161b22?style=flat-square" alt="CR Labz" /></a>
 </p>
 
 ---
@@ -119,7 +119,7 @@ I care about software that is **fast, maintainable and useful** — not just tec
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=d8ox&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=d8ox&theme=transparent&hide_border=true" height="165" alt="GitHub streak" />
 </p>
 
 ---
@@ -128,7 +128,7 @@ I care about software that is **fast, maintainable and useful** — not just tec
 
 <p>
   <a href="https://github.com/d8ox">GitHub</a> ·
-  <a href="https://crlabz.com">CR Labz</a>
+  <a href="https://crlabz.com" target="_blank" rel="noopener noreferrer">CR Labz</a>
 </p>
 
 <p align="center">
