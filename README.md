@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/d8ox"><img src="https://img.shields.io/github/followers/d8ox?label=Followers&style=flat-square&color=161b22" alt="GitHub followers" /></a>
   <a href="https://github.com/d8ox?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-161b22?style=flat-square" alt="Repositories" /></a>
-  <a href="https://crlabz.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CR%20Labz-Founder-161b22?style=flat-square" alt="CR Labz" /></a>
+  <a href="https://crlabz.com"><img src="https://img.shields.io/badge/CR%20Labz-Founder-161b22?style=flat-square" alt="CR Labz" /></a>
 </p>
 
 ---
@@ -128,7 +128,7 @@ I care about software that is **fast, maintainable and useful** — not just tec
 
 <p>
   <a href="https://github.com/d8ox">GitHub</a> ·
-  <a href="https://crlabz.com" target="_blank" rel="noopener noreferrer">CR Labz</a>
+  <a href="https://crlabz.com">CR Labz</a>
 </p>
 
 <p align="center">
